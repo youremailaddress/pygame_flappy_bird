@@ -1,6 +1,6 @@
 # pygame_flappy_bird
 <p>a game based on pygame module</p>
-<p>Try it during study python, Many steps can still be optimized</p>
+<p>Trying it during study python, many steps can still be optimized</p>
 <p>The rules of the game are the same as the online version</p>
 <p>Sometimes the speed of bird is not so normal...because I set the speed by frame</p>
 <p>一个基于pygame模块的flappy bird小游戏</p>
